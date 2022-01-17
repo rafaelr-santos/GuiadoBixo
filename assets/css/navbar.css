@@ -1,0 +1,12 @@
+#navbar {
+    background: white;
+}
+
+#navbar li {
+    text-align: center;
+}
+
+#navbar li hr {
+    padding: 0px;
+    margin: 0px;
+}
